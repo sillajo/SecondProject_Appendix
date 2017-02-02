@@ -7,5 +7,4 @@ public class HelloGit {
         System.out.println("It's DVCS");
         System.out.println("It's collaboration");
     }
-
 }
