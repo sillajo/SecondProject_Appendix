@@ -6,6 +6,10 @@ public class HelloGit {
 		System.out.println("What's Git?");
         System.out.println("It's DVCS");
         System.out.println("It's collaboration");
+<<<<<<< HEAD
         System.out.println("Conflict");
+=======
+        System.out.println("Test");
+>>>>>>> refs/heads/sist
     }
 }
